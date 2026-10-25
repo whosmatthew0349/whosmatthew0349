@@ -47,5 +47,5 @@ Always happy to talk about games, development, or anything else. Just ask!
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! Have a good one.</i>
+  <i>Thanks for stopping by!</i>
 </p>
