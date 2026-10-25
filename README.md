@@ -1,16 +1,28 @@
-## Hi there 👋
+## Whos.Matthew
+===============
+Hey there! my name is Matthew! but please just call me Matt!
 
-<!--
-**whosmatthew0349/whosmatthew0349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me!
+============
+Im a indie game developer, i mainly focus on VR/XP development.
+I sometimes make and sell programs/assests just for the fun of it :)
 
-Here are some ideas to get you started:
+I really like GMod, DBD, RoN, and MANY MANY more games, just ask!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+===========
+Games:
+Sealtopia VR (currently not up)
+GOOBER TAG (Not out yet)
+(ive made other games but these are the two i care the most about)
+
+Programs:
+file-organizer - https://github.com/whosmatthew0349/file-organizer
+Discord-AI-Bot-V2 - https://github.com/whosmatthew0349/Discord-AI-Bot-V2
+Discord-AI-Bot-V1 - https://github.com/whosmatthew0349/AI-Discord-Bot
+
+## Links
+===========
+Kofi - https://ko-fi.com/matt0349
+Studio Discord - https://discord.gg/E3zapUkEEG
+Personal X - https://x.com/whosmatthew0349
